@@ -29,7 +29,7 @@
 	--textshadow:					transparent;				/* default: transparent			(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)	*/
 	--settingsicons:				1;							/* Use Settings Icons in User/Server/Channel Settings: 1 = yes, 0 = no											*/
 	
-	--background:					url(https://www.google.com/search?sxsrf=APwXEdeSIw1cc-7cKRCw0YMkCIKKHz_ihQ:1683504616097&q=splatoon+background+low+saturation&tbm=isch&sa=X&ved=2ahUKEwjC3Pq0t-T-AhWnAjQIHUJSDYMQ0pQJegQIBRAB&biw=2560&bih=1335&dpr=1#imgrc=iW-pg2ZU9D6zhM&imgdii=odr4nmPdrDuXoM);	/* general background image				*/
+	--background:					url(https://bloximages.newyork1.vip.townnews.com/ocolly.com/content/tncms/assets/v3/editorial/2/6a/26a8a57a-4992-11e8-80d0-433f35cdb3f3/5ae2397d238f1.image.jpg?resize=1200%2C675);	/* general background image				*/
 	--backgroundposition:			center;						/* default: center				(position of background - values: [center/top/right/bottom/left])				*/
 	--backgroundsize:				cover;						/* default: cover				(sizefit of background - values: [cover/contain/auto])							*/
 	--backgroundblur:				unset;						/* default: unset				(blur in px, only works when --background is set to an image)					*/
